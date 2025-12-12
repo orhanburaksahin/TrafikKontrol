@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /bot/
+Disallow: /human/
+Disallow: /panel/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /detect.php
+Disallow: /process.php
+Disallow: /verify.php
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+Sitemap: https://yourdomain.com/sitemap.xml

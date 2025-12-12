@@ -1,0 +1,12 @@
+{
+    "stealth_mode": true,
+    "adv_detection": true,
+    "protection_level": "maximum",
+    "last_updated": "2025-12-12 00:45:18",
+    "updated_by": "172.69.199.228",
+    "site_name": "gonderisorgula.xyz",
+    "version": "3.0",
+    "block_tor": false,
+    "block_vpn": false,
+    "rate_limit": 10
+}
